@@ -11,8 +11,9 @@ The Crime Reporting Project is a web-based application that allows users to repo
 
 Team : 
 1) Manoj Rawat - manojRawat5
-2) Md Tauseef Raza - tauseef0786
-3) Mansab - Mansab67
+2) Ankit - Ankit-Khairwal
+3) Md Tauseef Raza - tauseef0786
+4) Mansab - Mansab67
 
 
 ## Directory Structure
