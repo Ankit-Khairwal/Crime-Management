@@ -1,8 +1,4 @@
 # Crime-Management
-
-# B41_WEB_033_Responsive-Rebels
-
-
 Project Name -Crime Portal
 
 ## Introduction
